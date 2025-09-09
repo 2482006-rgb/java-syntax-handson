@@ -19,6 +19,7 @@ public class NamingConvention {
 
         // Tampilkan semua data
         System.out.println("=== DATA MAHASISWA ===");
-        // Lengkapi output di sini
+        // Lengkapi output ]
+        // di sini
 }
 }

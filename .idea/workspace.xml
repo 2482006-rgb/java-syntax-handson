@@ -5,23 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23aa4c8e-a82e-4bc3-925c-89fd5b4239b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/analysis-report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSyntaxPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READMEN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taks1/NamingConvention.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taks1/SyntaxChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taks2/DataTypeLimits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taks2/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taks3/DataLossStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taks3/TypeCastingExperiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taks4/BiodataMahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taks4/UnitConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taks5/GradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutputSreenshots/Screenshot 2025-09-08 102810.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taks1/NamingConvention.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taks1/NamingConvention.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taks1/SyntaxChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taks1/SyntaxChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taks2/DataTypeLimits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taks2/DataTypeLimits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taks2/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taks2/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taks3/DataLossStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taks3/DataLossStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taks3/TypeCastingExperiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taks3/TypeCastingExperiment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taks4/BiodataMahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taks4/BiodataMahasiswa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taks4/UnitConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taks4/UnitConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taks5/GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taks5/GradeCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +46,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DataTypeLimits.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
     "Application.NamingConvation.executor": "Run",
     "Application.NamingConvention.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
     "Application.SyntaxChecker.executor": "Run",
     "Application.Task1.NamingConvention.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -65,13 +62,31 @@
     "onboarding.tips.debug.path": "C:/Users/user/OneDrive/画像/WA/foto fotoo taikk/JavaSyntaxPractice/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\画像\WA\foto fotoo taikk\JavaSyntaxPractice\OutputSreenshots" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.SyntaxChecker">
-    <configuration name="NamingConvation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Taks1.NamingConvation" />
+    <configuration name="DataTypeLimits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taks2.DataTypeLimits" />
       <module name="JavaSyntaxPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Taks1.*" />
+          <option name="PATTERN" value="Taks2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taks5.GradeCalculator" />
+      <module name="JavaSyntaxPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Taks5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taks2.SimpleCalculator" />
+      <module name="JavaSyntaxPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Taks2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SyntaxChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Taks1.SyntaxChecker" />
       <module name="JavaSyntaxPractice" />
@@ -105,24 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1.NamingConvention" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1.NamingConvention" />
-      <module name="JavaSyntaxPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SyntaxChecker" />
-        <item itemvalue="Application.Task1.NamingConvention" />
-        <item itemvalue="Application.NamingConvation" />
+        <item itemvalue="Application.GradeCalculator" />
+        <item itemvalue="Application.SimpleCalculator" />
+        <item itemvalue="Application.DataTypeLimits" />
         <item itemvalue="Application.NamingConvention" />
       </list>
     </recent_temporary>
@@ -144,6 +160,16 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Taks2/DataTypeLimits.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Taks1/SyntaxChecker.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
